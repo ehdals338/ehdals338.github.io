@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: DM Blog
-logo: "assets/images/favicon.png"
+icon: "assets/images/favicon.png"
 author: Dongmin Jang(장동민)
 description: Introduce myself
 email: ehdals338@gmail.com
