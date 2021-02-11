@@ -1,14 +1,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Dongmin Jang
-logo: 
+title: DM Blog
+logo: "assets/images/favicon.png"
 author: Dongmin Jang(장동민)
 description: Introduce myself
 email: ehdals338@gmail.com
 phone: 
 address: Seoul, Republic of Korea
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Copyright &copy; 2021 Designed & Developed by Dongmin Jang
 
 menu:
 - {name: About, link: '/about'}
